@@ -1,1 +1,9 @@
 # CS250
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+- Interpreting user needs can be done through various means. The primary way that I consider to be appropriate, is by gathering first hand consumer feedback. This can be done through individual interviews. Other options include: short surveys, usage metrics, and A/B testing. It's imporant to consider the features of the program from the end-users perspective, while also weighing them in matters of size and priority. User stories provide context to the development team. It is an insight into the unique perspective of an end-user. These stories document use-cases for the software, and allow developers to better visualize what their goal needs to be.
+  
+How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+- I want to be a more cross-functional developer. I think that it is important to gain a wide range of knowledge, in order to understand the context for the work that I am being assigned. Whether it is a cross-functional team or not, I think that focusing on the big picture may benefit me in the long run. However I can still specialize and explore my interests in my freetime. I also want to take time to check-in every day. I think it would be worthwile to analyze the work being done, check my to-do lists, and figure out any questions that I may still have. 
+  
+What does it mean to be a good team member in software development?
+- A good team member is adaptable to change. Regardless of what development methodology a team is being assigned, adaptability is key to succeeding in any role. This means adopting common rules and communication practices, while also learning new technologies. I believe that a good team member should be able to adapt to change. 
